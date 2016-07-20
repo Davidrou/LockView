@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="circle_bg">#E2E2E2</color>
+    <color name="line_bg_blue">#80C6FB</color>
+    <color name="line_bg_red">#C59BFC</color>
+</resources>
